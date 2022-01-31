@@ -1,7 +1,7 @@
-# GraphCMS Headless Blog
+# Dev Design Biz Headless Blog
 ### [Live Site](https://blogwith-graph-ql.vercel.app/)
 
-![GraphCMS Headless Blog](https://i.ibb.co/d01GNVQ/Screenshot-3.png)
+![Dev Design Biz Headless Blog](https://i.ibb.co/d01GNVQ/Screenshot-3.png)
 
 
 ## Introduction
