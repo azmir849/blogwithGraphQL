@@ -1,10 +1,8 @@
 # GraphCMS Headless Blog
-### [Live Site](https://nextjs-plum-five-51.vercel.app/)
+### [Live Site](https://blogwith-graph-ql.vercel.app/)
 
-![GraphCMS Headless Blog](https://i.ibb.co/NmnJnKD/image.png)
+![GraphCMS Headless Blog](https://ibb.co/27mgzCj)
 
-## Stay up to date with new projects
-New major projects coming soon, subscribe to the mailing list to stay up to date https://resource.jsmasterypro.com/newsletter
 
 ## Introduction
 This is a code repository for the corresponding video tutorial. 
